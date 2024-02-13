@@ -101,7 +101,7 @@
       "id": 5,
       "name": "Milk",
       "price": 500,
-      "image": "https://github.com/Laboratoria/burger-queen-api-mock/blob/main/resources/images/milk.png",
+      "image": "https://raw.githubusercontent.com/Laboratoria/burger-queen-api-mock/main/resources/images/milk.png",
       "type": "Beverages",
       "dateEntry": "2022-03-05 15:14:10"
     },
